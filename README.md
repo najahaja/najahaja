@@ -30,7 +30,7 @@ I love building things that make a difference—whether it's a clean UI, a predi
 ### 💻 Frontend (React)
 - **🌐 Personal Portfolio**  
   Created using **React** and **Vite**, showcasing my projects, skills, and certifications.  
-  [View Live Portfolio]([https://alhafilnajahaj.wixsite.com/najah](https://celadon-gnome-5f7f0f.netlify.app/)
+  [View Live Portfolio](https://celadon-gnome-5f7f0f.netlify.app/)
 
 - **🔐 Password Generator**  
   Secure password generator app using React with options for length, numbers, symbols, etc.
@@ -78,7 +78,7 @@ I'm always looking for opportunities to grow, learn, and contribute meaningfully
 
 - 📧 **Email**: alhafil.najah.aj@gmail.com  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/ahamednajah/)  
-- 🌐 [**Portfolio Website**]([https://alhafilnajahaj.wixsite.com/najah](https://celadon-gnome-5f7f0f.netlify.app/)
+- 🌐 [**Portfolio Website**](https://celadon-gnome-5f7f0f.netlify.app/)
 
 ---
 

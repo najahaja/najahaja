@@ -1,32 +1,85 @@
-# Ahamed Najah
+# 👨‍💻 Ahamed Najah
 
-## Introduction
-Hello, my name is Ahamed Najah. I am a passionate software developer from Sri Lanka, currently pursuing a Bachelor of Science in Computer Engineering. I am in my 4th semester and have developed a strong foundation in various programming languages and technologies.
+## 📌 Introduction
+Hi! I'm **Ahamed Najah**, a passionate software developer from **Sri Lanka**, currently pursuing a **Bachelor of Science in Computer Engineering**. I’m in my **6th semester**, with strong experience in **Frontend Development (React)** and growing expertise in **Machine Learning (ML)**.
 
-## Skills
-I have experience and proficiency in the following programming languages and tools:
-- **Languages**: C, C++, Java, JavaScript, Python, HTML, CSS
-- **Frameworks and Libraries**: React, Bootstrap
-- **Tools and Platforms**: Git, GitHub, Vite, Webpack
+I love building things that make a difference—whether it's a clean UI, a predictive model, or a full-stack app.
 
-## Projects
-Throughout my academic journey and personal interest, I have worked on several projects, including:
+---
 
-- **Password Generator**: A React-based application that generates secure passwords based on specified criteria.
-- **Currency Converter**: A tool that converts currencies based on the latest exchange rates.
-- **Weather Finder**: An application that provides current weather information for any location.
-- **Connect Four**: A game developed using SFML graphics in C++ that allows players to compete in a classic four-in-a-row game.
-- **Star Rating**: A React component for rating items using star ratings.
-- **Image Slider**: A React component for creating dynamic image sliders.
-- **Snapshot**: A React application for capturing and displaying snapshots.
-- **Calculator**: A functional calculator built with React that supports basic arithmetic operations.
-- **To-Do List**: A React-based to-do list application for managing tasks efficiently.
-- **Add to Cart**: A React component that allows users to add items to a shopping cart and view the total.
+## 💡 Skills & Technologies
 
-I am continuously working on new projects to further enhance my skills and knowledge.
+### 👨‍💻 Languages
+- C, C++, Java, Python, JavaScript, HTML, CSS
 
-## Contact
-I am always eager to connect with like-minded individuals, discuss new ideas, and collaborate on exciting projects. Feel free to reach out to me at:
-- **Email**: alhafil.najah.aj@gmail.com
+### ⚙️ Frameworks & Libraries
+- React, Bootstrap, Pandas, scikit-learn, Keras
 
-Thank you for taking the time to read my introduction. I look forward to connecting with you!
+### 🧰 Tools & Platforms
+- Git, GitHub, Vite, Webpack, Node.js, MySQL, Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+### 🧠 Machine Learning
+- **🏠 House Price Prediction**  
+  A regression model built using **Pandas**, **scikit-learn**, and **Keras** to predict house prices based on various features.  
+  _Tool used: Jupyter Notebook_
+
+### 💻 Frontend (React)
+- **🌐 Personal Portfolio**  
+  Created using **React** and **Vite**, showcasing my projects, skills, and certifications.  
+  [View Live Portfolio](https://alhafilnajahaj.wixsite.com/najah)
+
+- **🔐 Password Generator**  
+  Secure password generator app using React with options for length, numbers, symbols, etc.
+
+- **🌍 Weather Finder**  
+  React app using a weather API to show real-time weather data for any location.
+
+- **🧾 Currency Converter**  
+  A real-time currency conversion tool using API data.
+
+- **✅ To-Do List**  
+  A simple task manager app built with React.
+
+- **🛒 Add to Cart**  
+  E-commerce component to add and manage cart items dynamically.
+
+- **🧮 Calculator**  
+  Basic calculator functionality with a sleek UI using React.
+
+- **⭐ Star Rating**  
+  A React component to rate items with a star-based UI.
+
+- **🖼️ Image Slider**  
+  A responsive React image carousel component.
+
+- **📸 Snapshot**  
+  App to capture and display snapshots using React.
+
+- **🎮 Connect Four Game**  
+  Built with **C++** using **SFML graphics**, a playable version of the classic Connect Four.
+
+---
+
+## 🎯 Career Goals
+
+Currently open to **remote or on-site internships** in:
+- **AI/ML Engineering**
+- **Frontend Development** (React)
+
+I'm always looking for opportunities to grow, learn, and contribute meaningfully to the tech world.
+
+---
+
+## 📬 Let's Connect
+
+- 📧 **Email**: alhafil.najah.aj@gmail.com  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/ahamednajah/)  
+- 🌐 [**Portfolio Website**](https://alhafilnajahaj.wixsite.com/najah)
+
+---
+
+> "Code with passion. Build with purpose."

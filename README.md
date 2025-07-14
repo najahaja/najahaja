@@ -1,7 +1,7 @@
 # 👨‍💻 Ahamed Najah
 
 ## 📌 Introduction
-##👋 Hey! I'm Ahamed Najah
+## 👋 Hey! I'm Ahamed Najah
 **A Computer Engineering Student 🎓 | React Developer ⚛️ | ML Enthusiast 🤖**
 Building things that solve problems—whether it's a **predictive model** or a **sleek UI**.
 

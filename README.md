@@ -1,7 +1,7 @@
 # 👨‍💻 Ahamed Najah
 
 ## 📌 Introduction
-Hi! I'm **Ahamed Najah**, a passionate software developer from **Sri Lanka**, currently pursuing a **Bachelor of Science in Computer Engineering**. I’m in my **6th semester**, with strong experience in **Frontend Development (React)** and growing expertise in **Machine Learning (ML)**.
+Hi! I'm **Ahamed Najah**, a passionate software developer from **Sri Lanka**, currently pursuing a **Bachelor of Science in Computer Engineering**. I’m in my **7th semester**, with strong experience in **Frontend Development (React)** and growing expertise in **Machine Learning (ML)**.
 
 I love building things that make a difference—whether it's a clean UI, a predictive model, or a full-stack app.
 
@@ -13,7 +13,7 @@ I love building things that make a difference—whether it's a clean UI, a predi
 - C, C++, Java, Python, JavaScript, HTML, CSS
 
 ### ⚙️ Frameworks & Libraries
-- React, Bootstrap, Pandas, scikit-learn, Keras
+- React, TailwindCSS, Pandas, scikit-learn, Keras
 
 ### 🧰 Tools & Platforms
 - Git, GitHub, Vite, Webpack, Node.js, MySQL, Jupyter Notebook
@@ -76,7 +76,7 @@ I'm always looking for opportunities to grow, learn, and contribute meaningfully
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: alhafil.najah.aj@gmail.com  
+- 📧 **Email**: najahaja00@gmail.com  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/ahamednajah/)  
 - 🌐 [**Portfolio Website**](https://celadon-gnome-5f7f0f.netlify.app/)
 

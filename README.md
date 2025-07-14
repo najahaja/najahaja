@@ -1,7 +1,9 @@
 # 👨‍💻 Ahamed Najah
 
 ## 📌 Introduction
-Hi! I'm **Ahamed Najah**, a passionate software developer from **Sri Lanka**, currently pursuing a **Bachelor of Science in Computer Engineering**. I’m in my **7th semester**, with strong experience in **Frontend Development (React)** and growing expertise in **Machine Learning (ML)**.
+##👋 Hey! I'm Ahamed Najah
+**A Computer Engineering Student 🎓 | React Developer ⚛️ | ML Enthusiast 🤖**
+Building things that solve problems—whether it's a **predictive model** or a **sleek UI**.
 
 I love building things that make a difference—whether it's a clean UI, a predictive model, or a full-stack app.
 

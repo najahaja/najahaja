@@ -1,87 +1,91 @@
 # 👨‍💻 Ahamed Najah
 
-## 📌 Introduction
-### 👋 Hey! I'm Ahamed Najah
-**A Computer Engineering Student 🎓 | React Developer ⚛️ | ML Enthusiast 🤖**
-Building things that solve problems—whether it's a **predictive model** or a **sleek UI**.
+## 👋 About Me
 
-I love building things that make a difference—whether it's a clean UI, a predictive model, or a full-stack app.
+**Data Scientist & AI/ML Engineer | Full-Stack Developer**
+
+I build intelligent systems that solve real-world problems — from Deep Reinforcement Learning models for emergency response to high-performance React interfaces. I'm a Computer Engineering student passionate about leveraging data and machine learning to drive meaningful impact.
 
 ---
 
 ## 💡 Skills & Technologies
 
-### 👨‍💻 Languages
-- C, C++, Java, Python, JavaScript, HTML, CSS
+### 🤖 AI / Machine Learning
+- **Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn
+- **Domains:** Deep Reinforcement Learning, Computer Vision, Regression & Classification
+- **Tools:** Jupyter Notebook, Pandas, NumPy, OpenCV
 
-### ⚙️ Frameworks & Libraries
-- React, TailwindCSS, Pandas, scikit-learn, Keras
+### 💻 Web Development
+- **Frontend:** React, TailwindCSS, HTML, CSS, JavaScript
+- **Backend & Tools:** Node.js, Vite, Webpack, MySQL
 
-### 🧰 Tools & Platforms
-- Git, GitHub, Vite, Webpack, Node.js, MySQL, Jupyter Notebook
+### 🧰 Languages & Platforms
+- **Languages:** Python, JavaScript, Java, C, C++
+- **Platforms & DevOps:** Git, GitHub, AWS (EC2, S3), Docker
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects
 
-### 🧠 Machine Learning
-- **🏠 House Price Prediction**  
-  A regression model built using **Pandas**, **scikit-learn**, and **Keras** to predict house prices based on various features.  
-  _Tool used: Jupyter Notebook_
+### 🛰️ Multi-Agent AI System for Disaster Response *(Advanced)*
+A sophisticated system leveraging **Deep Reinforcement Learning** to coordinate multiple AI agents for emergency response in complex urban environments. Integrates real-world **OpenStreetMap** data for geographic accuracy and dynamic routing.
+> `PyTorch` · `Deep RL` · `OpenStreetMap` · `Multi-Agent Systems`
 
-### 💻 Frontend (React)
-- **🌐 Personal Portfolio**  
-  Created using **React** and **Vite**, showcasing my projects, skills, and certifications.  
-  [View Live Portfolio](https://celadon-gnome-5f7f0f.netlify.app/)
+---
 
-- **🔐 Password Generator**  
-  Secure password generator app using React with options for length, numbers, symbols, etc.
+### 🏠 House Price Prediction
+A regression model delivering high-accuracy real estate valuations using **Keras** and **Pandas**, trained on a multi-feature dataset with optimized preprocessing pipelines.
+> `Python` · `Keras` · `Pandas` · `scikit-learn` · `Jupyter Notebook`
 
-- **🌍 Weather Finder**  
-  React app using a weather API to show real-time weather data for any location.
+---
 
-- **🧾 Currency Converter**  
-  A real-time currency conversion tool using API data.
+### 🌐 Personal Portfolio
+A responsive, high-performance portfolio built with **React** and **Vite**, showcasing projects, skills, and certifications.
+> `React` · `Vite` · `TailwindCSS`  
+> 🔗 [View Live Portfolio](https://celadon-gnome-5f7f0f.netlify.app/)
 
-- **✅ To-Do List**  
-  A simple task manager app built with React.
+---
 
-- **🛒 Add to Cart**  
-  E-commerce component to add and manage cart items dynamically.
+### 🎮 Connect Four *(C++ / SFML)*
+A fully playable implementation of the classic Connect Four game, built with **C++** and **SFML** for real-time graphics rendering.
+> `C++` · `SFML`
 
-- **🧮 Calculator**  
-  Basic calculator functionality with a sleek UI using React.
+---
 
-- **⭐ Star Rating**  
-  A React component to rate items with a star-based UI.
+### 🛠️ Frontend Utilities & Components *(React)*
+A collection of practical, well-crafted React applications:
 
-- **🖼️ Image Slider**  
-  A responsive React image carousel component.
-
-- **📸 Snapshot**  
-  App to capture and display snapshots using React.
-
-- **🎮 Connect Four Game**  
-  Built with **C++** using **SFML graphics**, a playable version of the classic Connect Four.
+| Project | Description |
+|---|---|
+| 🌍 **Weather Finder** | Real-time weather data visualization via OpenWeather API |
+| 🔐 **Password Generator** | Secure password generator with configurable options |
+| 💱 **Currency Converter** | Real-time currency conversion using live exchange rate APIs |
+| ✅ **To-Do List** | Clean, minimal task management app |
+| 🛒 **Add to Cart** | Dynamic e-commerce cart component |
+| 🧮 **Calculator** | Fully functional calculator with a polished UI |
+| ⭐ **Star Rating** | Interactive, reusable rating component |
+| 🖼️ **Image Slider** | Responsive image carousel component |
+| 📸 **Snapshot** | Capture and display snapshots using React |
 
 ---
 
 ## 🎯 Career Goals
 
-Currently open to **remote or on-site internships** in:
-- **AI/ML Engineering**
-- **Frontend Development** (React)
+Currently open to **remote or on-site opportunities** in:
+- **AI / ML Engineering** — building and deploying intelligent systems
+- **Data Science** — deriving insights and driving decisions through data
+- **Full-Stack Development** — end-to-end product development with React & Node.js
 
-I'm always looking for opportunities to grow, learn, and contribute meaningfully to the tech world.
+I am always looking for opportunities to grow, contribute meaningfully, and work on challenging problems at the intersection of AI and software engineering.
 
 ---
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: najahaja00@gmail.com  
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/ahamednajah/)  
-- 🌐 [**Portfolio Website**](https://celadon-gnome-5f7f0f.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-najahaja00%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:najahaja00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahamed%20Najah-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahamednajah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://celadon-gnome-5f7f0f.netlify.app/)
 
 ---
 
-> "Code with passion. Build with purpose."
+> *"Code with passion. Build with purpose."*

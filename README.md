@@ -1,104 +1,153 @@
-# 👨‍💻 Ahamed Najah
+# Hey there! 👋 I'm Najah
 
-## 👋 About Me
-
-**Data Scientist & AI/ML Engineer | Full-Stack Developer**
-
-I build intelligent systems that solve real-world problems — from Deep Reinforcement Learning models for emergency response to high-performance React interfaces. I'm a Computer Engineering student passionate about leveraging data and machine learning to drive meaningful impact.
+A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, **TypeScript**, and modern AI frameworks.
 
 ---
 
-## 💡 Skills & Technologies
+## 🚀 About Me
 
-### 🤖 AI / Machine Learning
-
-- **Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn
-- **Domains:** Deep Reinforcement Learning, Computer Vision, Regression & Classification
-- **Tools:** Jupyter Notebook, Pandas, NumPy, OpenCV
-
-### 💻 Web Development
-
-- **Frontend:** React, TailwindCSS, HTML, CSS, JavaScript
-- **Backend & Tools:** Node.js, Vite, Webpack, MySQL
-
-### 🧰 Languages & Platforms
-
-- **Languages:** Python, JavaScript, Java, C, C++
-- **Platforms & DevOps:** Git, GitHub, AWS (EC2, S3), Docker
+- 💻 **Full-Stack Developer** | React & TypeScript specialist
+- 🤖 **AI/ML Practitioner** | Deep Learning, LLMs, and Computer Vision
+- 🎨 **UI/UX Focused** | Creating responsive, intuitive interfaces
+- 📚 **Continuous Learner** | Always exploring new technologies and best practices
+- 🔧 **Problem Solver** | From web apps to autonomous systems
 
 ---
 
-## 🚀 Key Projects
+## 🛠️ Tech Stack
 
-### 🛰️ Multi-Agent AI System for Disaster Response _(Advanced)_
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-A sophisticated system leveraging **Deep Reinforcement Learning** to coordinate multiple AI agents for emergency response in complex urban environments. Integrates real-world **OpenStreetMap** data for geographic accuracy and dynamic routing.
+### Backend & AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
-> `PyTorch` · `Deep RL` · `OpenStreetMap` · `Multi-Agent Systems`
-
----
-
-### 🏠 House Price Prediction
-
-A regression model delivering high-accuracy real estate valuations using **Keras** and **Pandas**, trained on a multi-feature dataset with optimized preprocessing pipelines.
-
-> `Python` · `Keras` · `Pandas` · `scikit-learn` · `Jupyter Notebook`
-
----
-
-### 🌐 Personal Portfolio
-
-A responsive, high-performance portfolio built with **React** and **Vite**, showcasing projects, skills, and certifications.
-
-> `React` · `Vite` · `TailwindCSS`  
-> 🔗 [View Live Portfolio](https://celadon-gnome-5f7f0f.netlify.app/)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🎮 Connect Four _(C++ / SFML)_
+## 📂 Featured Projects
 
-A fully playable implementation of the classic Connect Four game, built with **C++** and **SFML** for real-time graphics rendering.
+### 🎯 AI & Machine Learning
 
-> `C++` · `SFML`
+| Project | Description | Language | Status |
+|---------|-------------|----------|--------|
+| [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | Production-grade AI agent with LangGraph, Groq, and Streamlit GUI | Python | ⭐ Featured |
+| [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Real-time autonomous navigation with monocular depth estimation | Python | ⭐ Featured |
+| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agentic system for disaster detection and response | Python | Active |
+| [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | Complete |
+| [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing | Python | Active |
+| [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | Complete |
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Complete |
+| [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
+| [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical image segmentation with foundation models | Python | Complete |
+| [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
+
+### 🎨 React & Frontend
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| [**YoungDevInterns-ReactJS-Portfolio**](https://github.com/najahaja/YoungDevInterns-ReactJS-Portfolio) | Personal portfolio website | React, Tailwind CSS, Vite | ⭐ Featured |
+| [**addCartApp**](https://github.com/najahaja/addCartApp) | E-commerce shopping cart | React, Vite | Active |
+| [**YoungDevInterns-ReactJS-Blog**](https://github.com/najahaja/YoungDevInterns-ReactJS-Blog) | Dev.to API integration blog platform | React, TailwindCSS | Complete |
+| [**YoungDevInterns-ReactJS-CloneSite**](https://github.com/najahaja/YoungDevInterns-ReactJS-CloneSite) | Responsive website clone | React, Tailwind CSS, Vite | Complete |
+| [**YoungDevInterns_ReactJs_CV**](https://github.com/najahaja/YoungDevInterns_ReactJs_CV) | Professional CV template | React, CSS | Complete |
+| [**Todo-List**](https://github.com/najahaja/Todo-List) | Task manager with filtering | React | Complete |
+| [**Snapshot**](https://github.com/najahaja/Snapshot) | Image gallery with category filtering | React | Complete |
+| [**FAQs**](https://github.com/najahaja/FAQs) | Interactive FAQ application | React | Complete |
+
+### 🎮 Games & Interactive
+
+| Project | Description | Language | Status |
+|---------|-------------|----------|--------|
+| [**Connect-four**](https://github.com/najahaja/Connect-four) | Connect Four game with SFML graphics | C++ | Complete |
+| [**Calculator**](https://github.com/najahaja/Calculator) | React calculator with continuous operations | JavaScript | Complete |
+
+### 🎯 Utilities & Tools
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| [**PasswordGenerator**](https://github.com/najahaja/PasswordGenerator) | Secure password generator | React | Complete |
+| [**randomcolourgenerator**](https://github.com/najahaja/randomcolourgenerator) | Random color generation utility | JavaScript | Complete |
+| [**starRating**](https://github.com/najahaja/starRating) | Star rating component | JavaScript | Complete |
+| [**imageslider**](https://github.com/najahaja/imageslider) | Image carousel component | JavaScript | Complete |
+| [**weatherApp**](https://github.com/najahaja/weatherApp) | Weather application | JavaScript | Complete |
+| [**Marktet-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Market prediction analysis | Python | Complete |
 
 ---
 
-### 🛠️ Frontend Utilities & Components _(React)_
+## 📊 GitHub Statistics
 
-A collection of practical, well-crafted React applications:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=true)
 
-| Project                   | Description                                                 |
-| ------------------------- | ----------------------------------------------------------- |
-| 🌍 **Weather Finder**     | Real-time weather data visualization via OpenWeather API    |
-| 🔐 **Password Generator** | Secure password generator with configurable options         |
-| 💱 **Currency Converter** | Real-time currency conversion using live exchange rate APIs |
-| ✅ **To-Do List**         | Clean, minimal task management app                          |
-| 🛒 **Add to Cart**        | Dynamic e-commerce cart component                           |
-| 🧮 **Calculator**         | Fully functional calculator with a polished UI              |
-| ⭐ **Star Rating**        | Interactive, reusable rating component                      |
-| 🖼️ **Image Slider**       | Responsive image carousel component                         |
-| 📸 **Snapshot**           | Capture and display snapshots using React                   |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🎯 Career Goals
+## 🎓 Key Competencies
 
-Currently open to **remote or on-site opportunities** in:
+### Software Development
+- ✅ Full-stack web application development
+- ✅ Component-based architecture (React)
+- ✅ Type-safe development (TypeScript)
+- ✅ Responsive UI design with Tailwind CSS
+- ✅ Build optimization (Vite, webpack)
 
-- **AI / ML Engineering** — building and deploying intelligent systems
-- **Data Science** — deriving insights and driving decisions through data
-- **Full-Stack Development** — end-to-end product development with React & Node.js
+### AI & Machine Learning
+- ✅ Deep Learning architectures (CNN, LSTM, Transformer)
+- ✅ Computer Vision (Object Detection, Segmentation)
+- ✅ Natural Language Processing (BERT, LLaMA)
+- ✅ Agentic AI systems (LangGraph, LangChain)
+- ✅ Model evaluation and optimization
 
-I am always looking for opportunities to grow, contribute meaningfully, and work on challenging problems at the intersection of AI and software engineering.
+### Data Science
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Feature engineering
+- ✅ Regression & Classification
+- ✅ Time series analysis
+- ✅ Data visualization
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Collaboration
 
-[![Email](https://img.shields.io/badge/Email-najahaja00%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:najahaja00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahamed%20Najah-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahamednajah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://celadon-gnome-5f7f0f.netlify.app/)
+I'm always interested in collaborating on:
+- **AI/ML Projects** - Computer Vision, NLP, Autonomous Systems
+- **Full-Stack Web Apps** - React + Python backends
+- **Open Source** - Contributing to meaningful projects
+- **Innovative Ideas** - Turning concepts into reality
 
 ---
 
-> _"Code with passion. Build with purpose."_
+## 📬 Get In Touch
+
+- 💼 GitHub: [@najahaja](https://github.com/najahaja)
+- 🔗 Open to opportunities in AI/ML and Full-Stack Development
+- 💡 Always happy to discuss tech, projects, or collaborate!
+
+---
+
+## 📈 Recent Activity
+
+Building the future, one commit at a time. Check out my repositories above to see what I'm currently working on!
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! Don't forget to ⭐ if you find something interesting.**
+
+Made with ❤️ by [@najahaja](https://github.com/najahaja)
+
+</div>

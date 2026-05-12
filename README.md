@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Najah
 
-A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, **TypeScript**, and modern AI frameworks.
+A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python** and modern frameworks.
 
 ---
 
@@ -47,11 +47,11 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 | [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | Complete |
 | [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing | Python | Active |
 | [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | Complete |
-| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Complete |
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Active |
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical image segmentation with foundation models | Python | Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation with MedSAM-2 | Python | Complete |
 | [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
 
 ### 🎨 React & Frontend
@@ -89,9 +89,9 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
@@ -132,8 +132,9 @@ I'm always interested in collaborating on:
 
 ## 📬 Get In Touch
 
-- 💼 GitHub: [@najahaja](https://github.com/najahaja)
-- 🔗 Open to opportunities in AI/ML and Full-Stack Development
+- 💼 **GitHub:** [@najahaja](https://github.com/najahaja)
+- 🔗 **LinkedIn:** [ahamednajah](https://www.linkedin.com/in/ahamednajah/)
+- 📧 **Open to opportunities** in AI/ML and Full-Stack Development
 - 💡 Always happy to discuss tech, projects, or collaborate!
 
 ---

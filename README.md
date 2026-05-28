@@ -90,6 +90,8 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&random=123)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&random=123)
 
 ---

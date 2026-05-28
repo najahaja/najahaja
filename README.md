@@ -85,19 +85,6 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 | [**weatherApp**](https://github.com/najahaja/weatherApp) | Weather application | JavaScript | Complete |
 | [**Marktet-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Market prediction analysis | Python | Complete |
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)](https://github.com/najahaja)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)](https://github.com/najahaja)
-
-</div>
-
----
 
 ## 🎓 Key Competencies
 

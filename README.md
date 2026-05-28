@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Najah
 
-A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python** and modern frameworks.
+A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python** and cutting-edge AI technologies.
 
 ---
 
@@ -51,7 +51,7 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
 | [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation with MedSAM-2 | Python | Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation on brain tumors | Python | Complete |
 | [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
 
 ### 🎨 React & Frontend
@@ -89,10 +89,13 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&random=123)
+<div align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)](https://github.com/najahaja)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&random=123)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)](https://github.com/najahaja)
+
+</div>
 
 ---
 

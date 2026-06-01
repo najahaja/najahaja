@@ -132,19 +132,15 @@ I'm always interested in collaborating on:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=dark&count_private=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sooty-one-98.vercel.app/api?username=najahaja&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
 
 ### 💻 Languages & Technologies
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=dark&hide=html,css)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sooty-one-98.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+</p>
 
 ### 🔥 Contribution Streak
 

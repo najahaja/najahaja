@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Najah
 
-A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, and cutting-edge AI technologies.
+A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, and cutting-edge AI technologies. Driven by curiosity and fueled by caffeine ☕.
 
 ---
 
@@ -51,7 +51,7 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
 | [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation with MedSAM-2 | Python | Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation with BRATS dataset | Python | Complete |
 | [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
 
 ### 🎨 React & Frontend
@@ -146,7 +146,7 @@ I'm always interested in collaborating on:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najahaja&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=najahaja&theme=dark)
 
 </div>
 

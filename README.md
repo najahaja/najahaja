@@ -146,8 +146,7 @@ I'm always interested in collaborating on:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=najahaja&theme=dark)
-
+[![GitHub Streak](https://github-readme-streak-stats-ruddy-seven.vercel.app?user=najahaja&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---

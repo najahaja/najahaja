@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Najah
 
-A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, and cutting-edge AI technologies.
+A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python[...]
 
 ---
 
@@ -47,12 +47,12 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 | [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | Complete |
 | [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing | Python | Active |
 | [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | Complete |
-| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Active |
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python[...]
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation with advanced models | Python | Complete |
-| [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | P[...]
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segme[...]
+| [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete [...]
 
 ### 🎨 React & Frontend
 
@@ -96,7 +96,7 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 - ✅ Build optimization (Vite, webpack)
 
 ### AI & Machine Learning
-- �� Deep Learning architectures (CNN, LSTM, Transformer)
+- ✅ Deep Learning architectures (CNN, LSTM, Transformer)
 - ✅ Computer Vision (Object Detection, Segmentation)
 - ✅ Natural Language Processing (BERT, LLaMA)
 - ✅ Agentic AI systems (LangGraph, LangChain)
@@ -133,20 +133,20 @@ I'm always interested in collaborating on:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 💻 Languages & Technologies
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=dark&hide=html,css&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Streak
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=najahaja&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=najahaja&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 

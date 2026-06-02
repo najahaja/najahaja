@@ -145,7 +145,7 @@ I'm always interested in collaborating on:
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=najahaja&theme=dark" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=najahaja&theme=dark&cache_seconds=86400)
 </div>
 
 ---

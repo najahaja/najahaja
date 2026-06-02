@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Najah
 
-A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**,[...]
+A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, and cutting-edge AI technologies.
 
 ---
 
@@ -9,8 +9,7 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 - 💻 **Full-Stack Developer** | React & TypeScript specialist
 - 🤖 **AI/ML Practitioner** | Deep Learning, LLMs, and Computer Vision
 - 🎨 **UI/UX Focused** | Creating responsive, intuitive interfaces
-- 📚 **Continuous Learner** | Always
--  exploring new technologies and best practices
+- 📚 **Continuous Learner** | Always exploring new technologies and best practices
 - 🔧 **Problem Solver** | From web apps to autonomous systems
 
 ---
@@ -48,12 +47,12 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 | [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | Complete |
 | [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing | Python | Active |
 | [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | Complete |
-| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python[...]
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Active |
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | P[...]
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segme[...]
-| [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete [...]
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation with MedSAM 2 | Python | Complete |
+| [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
 
 ### 🎨 React & Frontend
 
@@ -134,19 +133,19 @@ I'm always interested in collaborating on:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sooty-one-98.vercel.app/api?username=najahaja&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=najahaja&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats-sooty-one-98.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najahaja&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=najahaja&theme=dark&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=najahaja&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---

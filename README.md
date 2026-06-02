@@ -9,7 +9,8 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 - 💻 **Full-Stack Developer** | React & TypeScript specialist
 - 🤖 **AI/ML Practitioner** | Deep Learning, LLMs, and Computer Vision
 - 🎨 **UI/UX Focused** | Creating responsive, intuitive interfaces
-- 📚 **Continuous Learner** | Always exploring new technologies and best practices
+- 📚 **Continuous Learner** | Always
+-  exploring new technologies and best practices
 - 🔧 **Problem Solver** | From web apps to autonomous systems
 
 ---

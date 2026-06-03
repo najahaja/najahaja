@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Najah
+# Hey there! 👋 I'm Ahamed Najah
 
 A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, and cutting-edge AI technologies.
 

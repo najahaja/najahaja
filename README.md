@@ -41,18 +41,20 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 
 | Project | Description | Language | Status |
 |---------|-------------|----------|--------|
+| [**AI-Travel-Planner-Agent-SaaS**](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS) | Production-grade AI Travel Planner with FastAPI, LangGraph, RAG, and Enterprise RBAC | Python | ⭐ Featured |
 | [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | Production-grade AI agent with LangGraph, Groq, and Streamlit GUI | Python | ⭐ Featured |
 | [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Real-time autonomous navigation with monocular depth estimation | Python | ⭐ Featured |
-| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agentic system for disaster detection and response | Python | Active |
+| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agentic system for disaster detection and response coordination | Python | Active |
 | [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | Complete |
 | [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing | Python | Active |
 | [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | Complete |
-| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Active |
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | Complete |
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical image segmentation using MedSAM 2 | Python | Complete |
-| [**Model-Training-Fundamentals**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recog-nition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning fundamentals with MNIST dataset | Python | Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical image segmentation and evaluation | Python | Complete |
+| [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | Complete |
+| [**Marktet-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Market prediction analysis | Python | Complete |
 
 ### 🎨 React & Frontend
 
@@ -78,13 +80,21 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
+| [**Mitchells-fruit-limited**](https://github.com/najahaja/Mitchells-fruit-limited) | AI Voice Agent Platform with FastAPI, React, Neon PostgreSQL | FastAPI, React, PostgreSQL | Active |
 | [**PasswordGenerator**](https://github.com/najahaja/PasswordGenerator) | Secure password generator | React | Complete |
 | [**randomcolourgenerator**](https://github.com/najahaja/randomcolourgenerator) | Random color generation utility | JavaScript | Complete |
 | [**starRating**](https://github.com/najahaja/starRating) | Star rating component | JavaScript | Complete |
 | [**imageslider**](https://github.com/najahaja/imageslider) | Image carousel component | JavaScript | Complete |
 | [**weatherApp**](https://github.com/najahaja/weatherApp) | Weather application | JavaScript | Complete |
-| [**Marktet-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Market prediction analysis | Python | Complete |
 
+### 🛠️ DevTools & Infrastructure
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**github-readme-stats**](https://github.com/najahaja/github-readme-stats) | Dynamically generated stats for GitHub readmes | Active |
+| [**skills-copilot-codespaces-vscode**](https://github.com/najahaja/skills-copilot-codespaces-vscode) | GitHub Copilot skills for Codespaces | Complete |
+
+---
 
 ## 🎓 Key Competencies
 
@@ -101,6 +111,7 @@ A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intellig
 - ✅ Natural Language Processing (BERT, LLaMA)
 - ✅ Agentic AI systems (LangGraph, LangChain)
 - ✅ Model evaluation and optimization
+- ✅ Retrieval-Augmented Generation (RAG)
 
 ### Data Science
 - ✅ Exploratory Data Analysis (EDA)

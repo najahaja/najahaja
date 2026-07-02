@@ -150,20 +150,6 @@ I'm always interested in collaborating on:
 
 ---
 
-## 📬 Get In Touch
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 **GitHub** | [@najahaja](https://github.com/najahaja) |
-| 🔗 **LinkedIn** | [ahamednajah](https://www.linkedin.com/in/ahamednajah/) |
-| 📧 **Email** | Open to opportunities in AI/ML and Full-Stack Development |
-| 💬 **Discord** | Happy to discuss tech, projects, or collaborate! |
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 

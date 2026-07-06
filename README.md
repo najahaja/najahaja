@@ -1,6 +1,6 @@
 # Hey there! 👋  I'm Ahamed Najah
 
-A passionate **Full-Stack Developer** and **AI/ML Enthusiast** crafting intelligent solutions with clean, maintainable code. I specialize in building scalable applications using **React**, **Python**, **TypeScript**, and cutting-edge AI frameworks. Transforming ideas into production-ready systems that solve real-world problems.
+Full-Stack Developer building AI-powered applications with React, TypeScript, Python, and FastAPI. Experienced in AI voice agents, workflow automation, and backend systems that solve real business problems.
 
 ---
 

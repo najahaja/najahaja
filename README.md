@@ -1,12 +1,12 @@
 # Hey there! 👋  I'm Ahamed Najah
 
-Full-Stack Developer building AI-powered applications with React, TypeScript, Python, and FastAPI. Experienced in AI voice agents, workflow automation, and backend systems that solve real business problems.
+Full-Stack Developer building AI-powered applications with React, JavaScript, Python, and FastAPI. Experienced in AI voice agents, workflow automation, and backend systems that solve real business [...]
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Developer** | React, TypeScript & Python specialist
+- 💻 **Full-Stack Developer** | React, JavaScript & Python specialist
 - 🤖 **AI/ML Practitioner** | Deep Learning, LLMs, Agentic Systems, and Computer Vision
 - 🎨 **UI/UX Focused** | Creating responsive, intuitive, and accessible interfaces
 - 📚 **Continuous Learner** | Always exploring new technologies and best practices
@@ -19,7 +19,7 @@ Full-Stack Developer building AI-powered applications with React, TypeScript, Py
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -47,19 +47,19 @@ Full-Stack Developer building AI-powered applications with React, TypeScript, Py
 
 | Project | Description | Language | Status |
 |---------|-------------|----------|--------|
-| [**AI-Travel-Planner-Agent-SaaS**](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS) | Production-grade AI Travel Planner with FastAPI, LangGraph, RAG, and Enterprise RBAC | Python | ⭐ Featured |
+| [**AI-Travel-Planner-Agent-SaaS**](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS) | Production-grade AI Travel Planner with FastAPI, LangGraph, RAG, and Enterprise RBAC | Python | ⭐[...]
 | [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | Production-grade AI agent with LangGraph, Groq, and Streamlit GUI | Python | ⭐ Featured |
 | [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Real-time autonomous navigation with monocular depth estimation | Python | ⭐ Featured |
 | [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agentic system for disaster detection and response coordination | Python | ✅ Complete |
 | [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | ✅ Complete |
 | [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing with semantic search | Python | ✅ Complete |
 | [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | ✅ Complete |
-| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python | ✅ Complete |
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python[...]
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | ✅ Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | ✅ Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning fundamentals with MNIST dataset | Python | ✅ Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical imaging segmentation with foundation models | Python | ✅ Complete |
-| [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | Python | ✅ Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning fundamentals with MNIST datase[...]
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical imagin[...]
+| [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyp[...]
 | [**Market-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Time-series forecasting for financial markets | Python | ✅ Complete |
 
 ### 🎨 React & Frontend
@@ -107,7 +107,7 @@ Full-Stack Developer building AI-powered applications with React, TypeScript, Py
 ### Software Development
 - ✅ Full-stack web application development (React + Python/FastAPI)
 - ✅ Component-based architecture & design patterns
-- ✅ Type-safe development (TypeScript)
+- ✅ Modern JavaScript development with ES6+
 - ✅ Responsive UI design with Tailwind CSS & modern CSS
 - ✅ Build optimization (Vite, webpack)
 - ✅ State management (Redux, Context API)

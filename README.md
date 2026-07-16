@@ -1,6 +1,6 @@
 # Hey there! 👋  I'm Ahamed Najah
 
-Full-Stack Developer building AI-powered applications with React, JavaScript, Python, and FastAPI. Experienced in AI voice agents, workflow automation, and backend systems that solve real business [...]
+Full-Stack Developer building AI-powered applications with React, JavaScript, Python, and FastAPI. Experienced in AI voice agents, workflow automation, and backend systems.
 
 ---
 
@@ -45,60 +45,60 @@ Full-Stack Developer building AI-powered applications with React, JavaScript, Py
 
 ### 🎯 AI & Machine Learning
 
-| Project | Description | Language | Status |
-|---------|-------------|----------|--------|
-| [**AI-Travel-Planner-Agent-SaaS**](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS) | Production-grade AI Travel Planner with FastAPI, LangGraph, RAG, and Enterprise RBAC | Python | ⭐[...]
-| [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | Production-grade AI agent with LangGraph, Groq, and Streamlit GUI | Python | ⭐ Featured |
-| [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Real-time autonomous navigation with monocular depth estimation | Python | ⭐ Featured |
-| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agentic system for disaster detection and response coordination | Python | ✅ Complete |
-| [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparing TF-IDF, Bi-LSTM, and BERT on IMDB reviews | Python | ✅ Complete |
-| [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Retrieval-Augmented Generation for document processing with semantic search | Python | ✅ Complete |
-| [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP and real-time performance | Python | ✅ Complete |
-| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA model optimization | Python[...]
-| [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition using OpenCV | Python | ✅ Complete |
-| [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression and Random Forest | Python | ✅ Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning fundamentals with MNIST datase[...]
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical imagin[...]
-| [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyp[...]
-| [**Market-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Time-series forecasting for financial markets | Python | ✅ Complete |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**AI-Travel-Planner-Agent-SaaS**](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS) | Production AI Travel Planner with FastAPI & LangGraph | ⭐ Featured |
+| [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | AI agent with LangGraph, Groq & Streamlit | ⭐ Featured |
+| [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Real-time autonomous navigation with depth estimation | ⭐ Featured |
+| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agentic disaster detection system | ✅ Complete |
+| [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | TF-IDF, Bi-LSTM & BERT comparison on IMDB | ✅ Complete |
+| [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | RAG system with semantic document search | ✅ Complete |
+| [**TumorDetection**](https://github.com/najahaja/TumorDetection) | Brain tumor detection with 92% mAP | ✅ Complete |
+| [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA optimization | ✅ Complete |
+| [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition with OpenCV | ✅ Complete |
+| [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression & Random Forest | ✅ Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning with MNIST dataset | ✅ Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical imaging with MedSAM-2 | ✅ Complete |
+| [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | ✅ Complete |
+| [**Market-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Time-series forecasting for financial markets | ✅ Complete |
 
 ### 🎨 React & Frontend
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| [**YoungDevInterns-ReactJS-Portfolio**](https://github.com/najahaja/YoungDevInterns-ReactJS-Portfolio) | Personal portfolio website | React, Tailwind CSS, Vite | ⭐ Featured |
-| [**addCartApp**](https://github.com/najahaja/addCartApp) | E-commerce shopping cart with product filtering | React, Vite | ✅ Complete |
-| [**YoungDevInterns-ReactJS-Blog**](https://github.com/najahaja/YoungDevInterns-ReactJS-Blog) | Dev.to API integration blog platform | React, TailwindCSS | ✅ Complete |
-| [**YoungDevInterns-ReactJS-CloneSite**](https://github.com/najahaja/YoungDevInterns-ReactJS-CloneSite) | Responsive website clone | React, Tailwind CSS, Vite | ✅ Complete |
-| [**YoungDevInterns_ReactJs_CV**](https://github.com/najahaja/YoungDevInterns_ReactJs_CV) | Professional CV template | React, CSS | ✅ Complete |
-| [**Todo-List**](https://github.com/najahaja/Todo-List) | Task manager with filtering and persistence | React | ✅ Complete |
-| [**Snapshot**](https://github.com/najahaja/Snapshot) | Image gallery with category filtering | React | ✅ Complete |
-| [**FAQs**](https://github.com/najahaja/FAQs) | Interactive FAQ application | React | ✅ Complete |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**YoungDevInterns-ReactJS-Portfolio**](https://github.com/najahaja/YoungDevInterns-ReactJS-Portfolio) | Personal portfolio website | ⭐ Featured |
+| [**addCartApp**](https://github.com/najahaja/addCartApp) | E-commerce shopping cart with filtering | ✅ Complete |
+| [**YoungDevInterns-ReactJS-Blog**](https://github.com/najahaja/YoungDevInterns-ReactJS-Blog) | Dev.to API blog platform | ✅ Complete |
+| [**YoungDevInterns-ReactJS-CloneSite**](https://github.com/najahaja/YoungDevInterns-ReactJS-CloneSite) | Responsive website clone | ✅ Complete |
+| [**YoungDevInterns_ReactJs_CV**](https://github.com/najahaja/YoungDevInterns_ReactJs_CV) | Professional CV template | ✅ Complete |
+| [**Todo-List**](https://github.com/najahaja/Todo-List) | Task manager with persistence | ✅ Complete |
+| [**Snapshot**](https://github.com/najahaja/Snapshot) | Image gallery with filtering | ✅ Complete |
+| [**FAQs**](https://github.com/najahaja/FAQs) | Interactive FAQ application | ✅ Complete |
 
 ### 🎮 Games & Interactive
 
-| Project | Description | Language | Status |
-|---------|-------------|----------|--------|
-| [**Connect-four**](https://github.com/najahaja/Connect-four) | Connect Four game with SFML graphics | C++ | ✅ Complete |
-| [**Calculator**](https://github.com/najahaja/Calculator) | React calculator with continuous operations | JavaScript | ✅ Complete |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**Connect-four**](https://github.com/najahaja/Connect-four) | Connect Four game with SFML graphics | ✅ Complete |
+| [**Calculator**](https://github.com/najahaja/Calculator) | React calculator with continuous operations | ✅ Complete |
 
 ### 🎯 Production Applications & Tools
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| [**Mitchells-fruit-limited**](https://github.com/najahaja/Mitchells-fruit-limited) | AI Voice Agent Platform with FastAPI, React, Neon PostgreSQL | FastAPI, React, PostgreSQL | ✅ Complete |
-| [**PasswordGenerator**](https://github.com/najahaja/PasswordGenerator) | Secure password generator with customizable options | React | ✅ Complete |
-| [**randomcolourgenerator**](https://github.com/najahaja/randomcolourgenerator) | Random color generation utility | JavaScript | ✅ Complete |
-| [**starRating**](https://github.com/najahaja/starRating) | Star rating component | JavaScript | ✅ Complete |
-| [**imageslider**](https://github.com/najahaja/imageslider) | Image carousel component | JavaScript | ✅ Complete |
-| [**weatherApp**](https://github.com/najahaja/weatherApp) | Weather application with API integration | JavaScript | ✅ Complete |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**Mitchells-fruit-limited**](https://github.com/najahaja/Mitchells-fruit-limited) | AI Voice Agent Platform | ✅ Complete |
+| [**PasswordGenerator**](https://github.com/najahaja/PasswordGenerator) | Secure password generator | ✅ Complete |
+| [**randomcolourgenerator**](https://github.com/najahaja/randomcolourgenerator) | Random color generator | ✅ Complete |
+| [**starRating**](https://github.com/najahaja/starRating) | Star rating component | ✅ Complete |
+| [**imageslider**](https://github.com/najahaja/imageslider) | Image carousel component | ✅ Complete |
+| [**weatherApp**](https://github.com/najahaja/weatherApp) | Weather application | ✅ Complete |
 
 ### 🛠️ DevTools & Infrastructure
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**github-readme-stats**](https://github.com/najahaja/github-readme-stats) | Dynamically generated stats for GitHub readmes | ✅ Complete |
-| [**skills-copilot-codespaces-vscode**](https://github.com/najahaja/skills-copilot-codespaces-vscode) | GitHub Copilot skills for Codespaces | ✅ Complete |
+| [**github-readme-stats**](https://github.com/najahaja/github-readme-stats) | Dynamically generated GitHub stats | ✅ Complete |
+| [**skills-copilot-codespaces-vscode**](https://github.com/najahaja/skills-copilot-codespaces-vscode) | GitHub Copilot skills | ✅ Complete |
 
 ---
 
@@ -108,7 +108,7 @@ Full-Stack Developer building AI-powered applications with React, JavaScript, Py
 - ✅ Full-stack web application development (React + Python/FastAPI)
 - ✅ Component-based architecture & design patterns
 - ✅ Modern JavaScript development with ES6+
-- ✅ Responsive UI design with Tailwind CSS & modern CSS
+- ✅ Responsive UI design with Tailwind CSS
 - ✅ Build optimization (Vite, webpack)
 - ✅ State management (Redux, Context API)
 - ✅ API design & REST/GraphQL integration
@@ -150,7 +150,6 @@ I'm always interested in collaborating on:
 
 ---
 
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -186,14 +185,14 @@ I'm always interested in collaborating on:
 ## 📈 Recent Highlights
 
 ✨ **Production Experience:**
-- Built and deployed multiple AI agents serving real-world use cases
+- Built and deployed multiple AI agents for real-world use cases
 - Created full-stack SaaS applications with enterprise-grade security
 - Contributed to open-source projects with 100+ GitHub stars
 
 🏆 **Notable Achievements:**
-- AI models achieving 92%+ accuracy on medical imaging tasks
+- AI models achieving 92%+ accuracy on medical imaging
 - Production systems processing millions of transactions
-- Portfolio projects spanning 30+ repositories across multiple domains
+- 30+ repositories across multiple domains
 
 ---
 

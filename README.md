@@ -6,12 +6,12 @@ Full-Stack Developer building AI-powered applications with React, JavaScript, Py
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Developer** | React, JavaScript & Python specialist
-- 🤖 **AI/ML Practitioner** | Deep Learning, LLMs, Agentic Systems, and Computer Vision
-- 🎨 **UI/UX Focused** | Creating responsive, intuitive, and accessible interfaces
-- 📚 **Continuous Learner** | Always exploring new technologies and best practices
-- 🔧 **Problem Solver** | From production web apps to autonomous AI systems
-- 🌐 **Open Source Contributor** | Building tools that benefit the developer community
+- 💻 **Full-Stack Developer** : React, JavaScript & Python specialist
+- 🤖 **AI Engineer & ML Practitioner**: Deep Learning, LLMs, Agentic Systems, and Computer Vision
+- 🎨 **UI/UX Focused** : Creating responsive, intuitive, and accessible interfaces
+- 📚 **Continuous Learner**:  Actively exploring cutting-edge tech and engineering best practices
+- 🔧 **Problem Solver**: From production web apps to autonomous AI systems
+- 🌐 **Open Source Contributor**: Building tools that benefit the developer community
 
 ---
 

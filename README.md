@@ -57,10 +57,11 @@ Full-Stack Developer building AI-powered applications with React, JavaScript, Py
 | [**Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA**](https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA) | PEFT techniques for LLaMA optimization | ✅ Complete |
 | [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based character recognition with OpenCV | ✅ Complete |
 | [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | ML pipeline with Linear Regression & Random Forest | ✅ Complete |
-| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recognition) | Deep learning with MNIST dataset | ✅ Complete |
-| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation-BRATS-2019-) | Medical imaging with MedSAM-2 | ✅ Complete |
+| [**Classification-Fundamentals-and-MNIST-Digit-Recognition**](https://github.com/najahaja/Classification-Fundamentals-and-MNIST-Digit-Recog-nition) | Deep learning with MNIST dataset | ✅ Complete |
+| [**Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tumor-Segmentation**](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-) | Medical imaging segmentation pipeline | ✅ Complete |
 | [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | End-to-end ML pipeline with hyperparameter tuning | ✅ Complete |
-| [**Market-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Time-series forecasting for financial markets | ✅ Complete |
+| [**Marktet-Prediction**](https://github.com/najahaja/Marktet-Prediction) | Time-series forecasting for financial markets | ✅ Complete |
+| [**ft-bench**](https://github.com/najahaja/ft-bench) | Benchmarking Llama 3.2 NLU with QLoRA and AWQ | ✅ Complete |
 
 ### 🎨 React & Frontend
 
@@ -99,6 +100,7 @@ Full-Stack Developer building AI-powered applications with React, JavaScript, Py
 |---------|-------------|--------|
 | [**github-readme-stats**](https://github.com/najahaja/github-readme-stats) | Dynamically generated GitHub stats | ✅ Complete |
 | [**skills-copilot-codespaces-vscode**](https://github.com/najahaja/skills-copilot-codespaces-vscode) | GitHub Copilot skills | ✅ Complete |
+| [**mlops-live**](https://github.com/najahaja/mlops-live) | MLOps platform for production ML workflows | ✅ Complete |
 
 ---
 

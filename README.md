@@ -159,6 +159,7 @@ I’m actively open to opportunities involving:
 
 <div align="center">
   [![GitHub Streak](https://github-readme-streak-stats-ruddy-seven.verapp?user=najahaja&theme=dark)](https://git.io/streak-stats)
+  
 </div>
 
 ---

@@ -2,17 +2,28 @@
 
 AI Engineer and Full-Stack Developer building production-ready AI systems, intelligent workflows, and scalable web applications.
 
-I design and ship end-to-end solutions that combine modern frontend experiences with Python-based backends, agentic AI, computer vision, RAG, and MLOps workflows. My work spans autonomous AI agents, full-stack SaaS products, ML pipelines, and deployment-focused applications built for real-world use.
+I design and ship end-to-end solutions that combine modern frontend experiences with Python-based backends, agentic AI, RAG, MLOps, and deployment-ready products.
+
+## Pinned projects
+
+These are the four repositories I keep at the top of my professional storefront:
+
+- [AI-Travel-Planner-Agent-SaaS](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS)
+- [ft-bench](https://github.com/najahaja/ft-bench)
+- [mlops-live](https://github.com/najahaja/mlops-live)
+- [disaster-response-ai](https://github.com/najahaja/disaster-response-ai)
+
+> GitHub profile pinning is managed in the GitHub UI; these are the repos I prioritize in my public portfolio and README ordering.
 
 ---
 
 ## About Me
 
-- 🤖 AI Engineer focused on agentic systems, LLM applications, computer vision, and RAG
+- 🤖 AI Engineer focused on agentic systems, LLM product design, RAG, and orchestration
 - 💻 Full-Stack Developer with experience in React, JavaScript, Python, and FastAPI
-- 🧠 ML practitioner working with deep learning, NLP, model fine-tuning, and deployment pipelines
-- 🏗️ Builder of production-style SaaS products, internal tools, and AI-powered experiences
-- 🎨 UI/UX-minded developer creating intuitive, responsive, and user-friendly interfaces
+- 🧠 ML practitioner specializing in fine-tuning, evaluation, and production MLOps
+- 🏗️ Builder of SaaS products, internal tools, and AI-powered workflows
+- 🎨 UI/UX-minded developer creating intuitive, responsive web experiences
 - 📈 Interested in solving meaningful problems through practical, scalable, and measurable technology
 
 ---
@@ -26,8 +37,6 @@ I design and ship end-to-end solutions that combine modern frontend experiences 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +65,6 @@ I design and ship end-to-end solutions that combine modern frontend experiences 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -67,48 +75,52 @@ I design and ship end-to-end solutions that combine modern frontend experiences 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [**AI-Travel-Planner-Agent-SaaS**](https://github.com/najahaja/AI-Travel-Planner-Agent-SaaS) | Production-grade AI travel planning SaaS with FastAPI, LangGraph, RAG, and enterprise-style RBAC | ⭐ Featured |
-| [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | Multi-step AI travel planner using LangGraph, Groq, Tavily, and Streamlit | ⭐ Featured |
-| [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Real-time autonomous navigation powered by monocular depth estimation and object detection | ⭐ Featured |
-| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agent disaster detection and response coordination system | ✅ Complete |
-| [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Semantic document retrieval and RAG-based knowledge assistant | ✅ Complete |
-| [**TumorDetection**](https://github.com/najahaja/TumorDetection) | AI-powered medical imaging project for brain tumor detection | ✅ Complete |
-| [**Sentiment-Analysis**](https://github.com/najahaja/Sentiment-Analysis) | Comparative NLP study using TF-IDF, Bi-LSTM, and BERT | ✅ Complete |
-| [**Housing-Price-Prediction**](https://github.com/najahaja/Housing-Price-Prediction) | End-to-end ML workflow for housing price prediction | ✅ Complete |
-| [**Model-Training-Fundamentals-with-Custom-Dataset-Implementation**](https://github.com/najahaja/Model-Training-Fundamentals-with-Custom-Dataset-Implementation) | Custom dataset training pipeline and model experimentation | ✅ Complete |
-| [**ft-bench**](https://github.com/najahaja/ft-bench) | Llama-based fine-tuning benchmark with QLoRA and AWQ evaluation | ✅ Complete |
+| [**ft-bench**](https://github.com/najahaja/ft-bench) | Llama-based fine-tuning benchmark comparing zero-shot vs QLoRA vs AWQ | ⭐ Featured |
+| [**mlops-live**](https://github.com/najahaja/mlops-live) | End-to-end MLOps platform for model training, tracking, serving, and governance | ⭐ Featured |
+| [**disaster-response-ai**](https://github.com/najahaja/disaster-response-ai) | Multi-agent disaster detection and response coordination platform | ✅ Complete |
+| [**Travel-Planner-Agent**](https://github.com/najahaja/Travel-Planner-Agent) | Multi-step AI travel planner built with LangGraph, Groq, Tavily, and Streamlit | ✅ Complete |
+| [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Vision-driven obstacle avoidance and depth estimation system | ✅ Complete |
+| [**Semantic-Web-Doc-RAG**](https://github.com/najahaja/Semantic-Web-Doc-RAG) | Semantic retrieval and RAG-based document assistant | ✅ Complete |
+| [**TumorDetection**](https://github.com/najahaja/TumorDetection) | AI-powered brain tumor detection project | ✅ Complete |
 
 ### Full-Stack & Product Applications
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [**Mitchells-fruit-limited**](https://github.com/najahaja/Mitchells-fruit-limited) | AI voice agent platform built with FastAPI, React, Neon PostgreSQL, and Retell AI | ✅ Complete |
-| [**YoungDevInterns-ReactJS-Portfolio**](https://github.com/najahaja/YoungDevInterns-ReactJS-Portfolio) | Modern portfolio website built with React and Tailwind CSS | ⭐ Featured |
+| [**YoungDevInterns-ReactJS-Portfolio**](https://github.com/najahaja/YoungDevInterns-ReactJS-Portfolio) | Modern portfolio website built with React and Tailwind CSS | ✅ Complete |
 | [**addCartApp**](https://github.com/najahaja/addCartApp) | Responsive shopping cart app for e-commerce workflows | ✅ Complete |
-| [**YoungDevInterns-ReactJS-Blog**](https://github.com/najahaja/YoungDevInterns-ReactJS-Blog) | Blog platform powered by the Dev.to API | ✅ Complete |
 | [**Todo-List**](https://github.com/najahaja/Todo-List) | Task management app with filtering and persistence | ✅ Complete |
-| [**Snapshot**](https://github.com/najahaja/Snapshot) | Image gallery with category and keyword filtering | ✅ Complete |
-| [**FAQs**](https://github.com/najahaja/FAQs) | Interactive FAQ application | ✅ Complete |
+| [**FAQs**](https://github.com/najahaja/FAQs) | Interactive FAQ app | ✅ Complete |
 
-### Computer Vision, Games & Tools
+---
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**DepthVision-AI**](https://github.com/najahaja/DepthVision-AI) | Vision-driven obstacle avoidance and depth estimation system | ⭐ Featured |
-| [**simpsons-character-recognition**](https://github.com/najahaja/simpsons-character-recognition) | CNN-based image classification project with OpenCV | ✅ Complete |
-| [**Connect-four**](https://github.com/najahaja/Connect-four) | Classic game implementation using C++ and SFML | ✅ Complete |
-| [**PasswordGenerator**](https://github.com/najahaja/PasswordGenerator) | Utility app for generating secure passwords | ✅ Complete |
-| [**weatherApp**](https://github.com/najahaja/weatherApp) | Real-time weather dashboard built with React | ✅ Complete |
-| [**mlops-live**](https://github.com/najahaja/mlops-live) | Production-style MLOps workflow with MLflow and deployment-ready ML infrastructure | ✅ Complete |
+## Professional storefront cleanup
+
+I recommend archiving or making private the lower-signal tutorial and internship repos so they do not clutter the public-facing portfolio. Prioritize keeping only production-like, business-facing, or technically deep repos public.
+
+Suggested public-facing set:
+- AI-Travel-Planner-Agent-SaaS
+- ft-bench
+- mlops-live
+- disaster-response-ai
+- DepthVision-AI
+- Travel-Planner-Agent
+
+Suggested archive/private candidates:
+- tutorial/demo apps (calculator, FAQ, weather app, slider, etc.)
+- internship projects and clone sites
+- one-off starter apps not tied to a product or deeper research story
 
 ---
 
 ## Key Strengths
 
 ### AI & Machine Learning
-- ✅ Agentic AI and LLM workflow design
-- ✅ Retrieval-Augmented Generation (RAG) systems
+- ✅ Agentic AI and workflow orchestration
+- ✅ Retrieval-augmented generation (RAG)
 - ✅ Deep learning, NLP, and computer vision
-- ✅ Fine-tuning, model evaluation, and optimization
+- ✅ Fine-tuning, evaluation, and optimization
 - ✅ Production-ready MLOps and deployment workflows
 
 ### Full-Stack Development
@@ -117,12 +129,6 @@ I design and ship end-to-end solutions that combine modern frontend experiences 
 - ✅ REST API design and integration
 - ✅ Responsive UI/UX development
 - ✅ End-to-end product delivery
-
-### Data & Engineering
-- ✅ PostgreSQL and modern data infrastructure
-- ✅ Dockerized applications and workflows
-- ✅ Version control, collaboration, and GitHub-based delivery
-- ✅ Data pipelines, experimentation, and model monitoring
 
 ---
 
@@ -152,9 +158,7 @@ I’m actively open to opportunities involving:
 ### Contribution Streak
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-ruddy-seven.vercel.app?user=najahaja&theme=dark)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-readme-streak-stats-ruddy-seven.vercel.app?user=najahaja&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -170,9 +174,7 @@ I’m actively open to opportunities involving:
 ---
 
 <div align="center">
-
-**Thanks for visiting my profile. I’m always interested in meaningful collaborations and opportunities to build impactful technology.**
-
-Made with ❤️ by [@najahaja](https://github.com/najahaja)
-
+  <strong>Thanks for visiting my profile. I’m always interested in meaningful collaborations and opportunities to build impactful technology.</strong>
+  <br />
+  Made with ❤️ by [@najahaja](https://github.com/najahaja)
 </div>

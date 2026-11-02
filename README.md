@@ -158,7 +158,7 @@ I’m actively open to opportunities involving:
 ### Contribution Streak
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-ruddy-seven.vercel.app?user=najahaja&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-ruddy-seven.verapp?user=najahaja&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -167,7 +167,7 @@ I’m actively open to opportunities involving:
 
 - 🚀 Building production-grade AI systems with LangGraph and FastAPI
 - 📊 Exploring advanced RAG pipelines and intelligent agents
-- 🤖 Developing real-world computer vision and NLP applications
+- 🤖 Developing real-world computer engineering and NLP applications
 - 🌐 Creating scalable, user-centric full-stack products
 - 📚 Continuously learning and improving with modern AI and software engineering practices
 
